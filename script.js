@@ -11,13 +11,13 @@ maps = {
     Tier6  : ["Academy", "Ashen_Wood", "Canyon", "Fields", "Haunted_Mansion", "Phantasmagoria", "Precinct", "Sulphur_Vents", "Temple", "Volcano", "Wharf"],
     Tier7  : ["Arcade", "Bazaar", "Cells", "Conservatory", "Dunes", "Geode", "Ghetto", "Lava_Chamber", "Primordial_Pool", "Toxic_Sewer", "Underground_River"],
     Tier8  : ["Arachnid_Nest", "Infested_Valley", "Laboratory", "Mineral_Pools", "Mud Geyser", "Orchard", "Overgrown_Ruin", "Promenade", "Sepulchre", "Shore", "Wasteland"],
-    Tier9  : ["Coves", "Crypt", "Museum", "Orchard", "Overgrown_Shrine", "Promenade", "Reef", "Temple"],
-    Tier10 : ["Arsenal", "Colonnade", "Courtyard", "Malformation", "Port", "Terrace", "Underground_River"],
-    Tier11 : ["Bazaar", "Chateau", "Excavation", "Precinct", "Torture_Chamber", "Underground_Sea", "Wasteland"],
-    Tier12 : ["Crematorium", "Estuary", "Ivory_Temple", "Necropolis", "Plateau", "Residence", "Shipyard", "Vault"],
-    Tier13 : ["Beacon", "Gorge", "High_Gardens", "Lair", "Plaza", "Scriptorium", "Sulphur_Wastes", "Waterways"],
-    Tier14 : ["Maze", "Mineral_Pools", "Palace", "Shrine", "Springs", "Volcano"],
-    Tier15 : ["Abyss", "Colosseum", "Core", "Dark_Forest", "Overgrown_Ruin"],
+    Tier9  : ["Ancient_City", "Arena", "Cemetery", "Moon_Temple", "Museum", "Relic_Chambers", "Scriptorium", "Tropical_Island", "Vault", "Waste_Pool", "Waterways"],
+    Tier10 : ["Belfry", "Coral_Ruins", "Coves", "Estuary", "Leyline", "Pier", "Pit", "Plateau", "Plaza", "Spider_Forest"],
+    Tier11 : ["Arachnid_Tomb", "Bog", "Burial_Chambers", "Chateau", "Crystal_Ore", "Factory", "Lair", "Mesa", "Park", "Siege"],
+    Tier12 : ["Arsenal", "Castle_Ruins", "Colonnade", "Defiled_Cathedral", "Ivory_Temple", "Malformation", "Necropolis", "Overgrown_Shrine", "Villa"],
+    Tier13 : ["Acid_Caverns", "Caldera", "Colosseum", "Core", "Crimson_Temple", "Dig", "Racecourse", "Reef", "Shrine"],
+    Tier14 : ["Basilica", "Carcass", "Courthouse", "Dark_Forest", "Palace", "Sunken_City","Terrace"],
+    Tier15 : ["Desert_Spring", "Lava_Lake", "Primordial_Blocks", "Summit", "Tower"],
     Tier16 : ["Forge_of_the_Phoenix", "Lair_of_the_Hydra", "Maze_of_the_Minotaur", "Pit_of_the_Chimera", "Vaal_Temple"]
 }
 
