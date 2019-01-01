@@ -1,7 +1,7 @@
 maps = {
-    Unique : ["Acton's_Nightmare", "Caer_Blaidd,_Wolfpack's_Den", "Death_and_Taxes", "Hallowed_Ground",
-        "Hall_of_Grandmasters", "Maelström_of_Chaos", "Mao_Kun", "Oba's_Cursed_Trove", "Olmec's_Sanctum",
-        "Poorjoy's_Asylum", "The_Coward's_Trial", "The_Perandus_Manor", "The_Putrid_Cloister",
+    Unique : ["Acton's_Nightmare", "Caer_Blaidd,_Wolfpack's_Den", "Death_and_Taxes","Doryani's_Machinarium", "Hallowed_Ground",
+        "Hall_of_Grandmasters", "Maelström_of_Chaos", "Mao_Kun", "Oba's_Cursed_Trove", "Olmec's_Sanctum","Pillars_of_Arun",
+        "Poorjoy's_Asylum", "The_Coward's_Trial", "The_Perandus_Manor", "The_Putrid_Cloister","The_Twilight_Temple",
         "The_Vinktar_Square", "Vaults_of_Atziri", "Whakawairua_Tuahu"],
     Tier1  : ["Atoll", "Channel", "Flooded_Mine", "Ramparts"],
     Tier2  : ["Arid_Lake", "Armoury", "Dungeon", "Iceberg", "Pen", "Thicket"],
